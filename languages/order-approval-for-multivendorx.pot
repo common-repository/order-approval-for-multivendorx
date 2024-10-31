@@ -1,0 +1,127 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Order Approval for MultiVendorX\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-08 06:15+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.2\n"
+"X-Domain: order-approval-for-multivendorx"
+
+#: plugin-deactivation-survey/deactivate-feedback-form.php:45
+msgid "Cancel"
+msgstr ""
+
+#: plugin-deactivation-survey/deactivate-feedback-form.php:41
+msgid "Do not send my e-mail address with this feedback"
+msgstr ""
+
+#: plugin-deactivation-survey/deactivate-feedback-form.php:59
+msgid "I don't need this plugin any more"
+msgstr ""
+
+#: plugin-deactivation-survey/deactivate-feedback-form.php:60
+msgid "I found a better plugin"
+msgstr ""
+
+#: plugin-deactivation-survey/deactivate-feedback-form.php:38
+msgid "If you would be kind enough, please tell us why you're deactivating?"
+msgstr ""
+
+#: plugin-deactivation-survey/deactivate-feedback-form.php:61
+msgid "It's a temporary deactivation, I'm troubleshooting"
+msgstr ""
+
+#: templates/emails/vendor-new-preorder.php:82
+msgid "Note:"
+msgstr ""
+
+#. Name of the plugin
+msgid "Order Approval for MultiVendorX"
+msgstr ""
+
+#: plugin-deactivation-survey/deactivate-feedback-form.php:62
+msgid "Other"
+msgstr ""
+
+#: plugin-deactivation-survey/deactivate-feedback-form.php:43
+msgid "Please give us any feedback that could help us improve"
+msgstr ""
+
+#: plugin-deactivation-survey/deactivate-feedback-form.php:40
+msgid "Please tell us the reason so we can improve the plugin"
+msgstr ""
+
+#: plugin-deactivation-survey/deactivate-feedback-form.php:39
+msgid "Please tell us which plugin?"
+msgstr ""
+
+#: plugin-deactivation-survey/deactivate-feedback-form.php:48
+msgid "Please wait"
+msgstr ""
+
+#: templates/emails/vendor-new-preorder.php:46
+msgid "Price"
+msgstr ""
+
+#: templates/emails/vendor-new-preorder.php:44
+msgid "Product"
+msgstr ""
+
+#: templates/emails/vendor-new-preorder.php:45
+msgid "Quantity"
+msgstr ""
+
+#: plugin-deactivation-survey/deactivate-feedback-form.php:37
+msgid "Quick Feedback"
+msgstr ""
+
+#. Author of the plugin
+msgid "Sevengits"
+msgstr ""
+
+#: plugin-deactivation-survey/deactivate-feedback-form.php:46
+msgid "Skip &amp; Deactivate"
+msgstr ""
+
+#: plugin-deactivation-survey/deactivate-feedback-form.php:47
+msgid "Submit &amp; Deactivate"
+msgstr ""
+
+#: plugin-deactivation-survey/deactivate-feedback-form.php:49
+msgid "Thank you!"
+msgstr ""
+
+#: order-approval-for-multivendorx.php:52
+msgid ""
+"The following plugins are required for Order Approval for MultiVendorX "
+"plugin to work. Please ensure that they are activated: "
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"The Order Approval for MultiVendorX plugin enables vendors to review and "
+"either accept or reject customer orders before any payment is made."
+msgstr ""
+
+#: plugin-deactivation-survey/deactivate-feedback-form.php:58
+msgid "The plugin broke my site"
+msgstr ""
+
+#: plugin-deactivation-survey/deactivate-feedback-form.php:57
+msgid "The plugin suddenly stopped working"
+msgstr ""
+
+#: templates/emails/vendor-new-preorder.php:29
+#: templates/emails/plain/vendor-new-preorder.php:15
+#, php-format
+msgid "You have received an order from %s."
+msgstr ""
